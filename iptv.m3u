@@ -8,7 +8,7 @@ http://server.stablechannels.tv:25461/live/45QJaQnjc/2f2a5u4VgY/2305.ts
 http://server.stablechannels.tv:25461/live/45QJaQnjc/2f2a5u4VgY/2304.ts
 
 #EXTINF:-1,USA | CARTOON NETWORK
-http://server.stablechannels.tv:25461/live/45QJaQnjc/2f2a5u4VgY/2303.ts
+http://server.stablechannels.tv:25461/live/45QJaQnjc/2f2a5u4VgY/2303.ts|User-Agent="blabla"
 
 #EXTINF:-1,USA | CBS Sports Network HD
 http://server.stablechannels.tv:25461/live/45QJaQnjc/2f2a5u4VgY/2302.ts
